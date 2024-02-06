@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Midhat Fayaz</h2>
+<h2 align="left">Hi 👋! My name is Midhat Fayaz </h2>
 <h2 align="left">I'm a Web Developer</h2>
 
 ###
